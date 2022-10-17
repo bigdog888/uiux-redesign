@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Helvetica;
+    margin: 5em 5em 5em 5em;
+}
+
+a {
+    color: rgb(91, 224, 224)
+}
+
+a:visited {
+    color: rgb(157, 183, 244);
+  }
+
+ul {
+    list-style: square;
+    line-height: 180%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    padding: 8px;
+}
